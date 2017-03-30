@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="screenshot.png" width="350" />
-</p>
+![Screenshot](doc/screenshot.png)
 
 Search Movie App
 
