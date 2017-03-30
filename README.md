@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="doc/screenshot.png" width="650" / >
-</p>
-
 Search Movie App
 
 Tehnology usage: HTML, CSS, Stylus, JS, ES6, React, React-Router, Babel, Webpack
@@ -19,4 +15,5 @@ Recommendation:
   - superhero.min.css
   - spacelab.min.css
   - readable.min.css
+
 Note: sometimes after you changed the template, active link in top menu can display not well it's easy correct in file 'styles.styl' in class '.active' in tag 'color'
