@@ -1,4 +1,4 @@
-![Screenshot](doc/screenshot.png)
+![Alt text](doc/screenshot.png?raw=true "Screenshot")
 
 Search Movie App
 
