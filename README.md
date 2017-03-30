@@ -1,4 +1,5 @@
-Search Movie App
+![screenshot](https://cloud.githubusercontent.com/assets/15364747/24530704/69251466-15bc-11e7-8f72-92d9c86dfc67.PNG)
+
 
 Tehnology usage: HTML, CSS, Stylus, JS, ES6, React, React-Router, Babel, Webpack
 
