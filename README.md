@@ -1,3 +1,5 @@
+                                            Search Movie App
+                                            
 ![screenshot](https://cloud.githubusercontent.com/assets/15364747/24530704/69251466-15bc-11e7-8f72-92d9c86dfc67.PNG)
 
 
@@ -10,7 +12,7 @@ Tehnology usage: HTML, CSS, Stylus, JS, ES6, React, React-Router, Babel, Webpack
 
 Recommendation: 
 1. If you want a beautiful URL in browser(without symbol '#') then in file main.js in line 3 and 13 change 'hashHistory' to 'browserHistory'(it works only on a server, example: localhost or remote).
-2. If you want another theme then in filename 'index.html' in tag '<link>' change attribute 'href' to theme from the list below:
+2. If you want another theme then in filename 'index.html' in tag '\<link\>' change attribute 'href' to theme from the list below:
   - solar.min.css (default)
   - slate.min.css
   - superhero.min.css
